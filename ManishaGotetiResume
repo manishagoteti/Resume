@@ -1,0 +1,111 @@
+!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Manisha Goteti — Resume</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, sans-serif; max-width: 860px; margin: 40px auto; padding: 0 28px; color: #1a1a1a; line-height: 1.65; font-size: 15px; }
+  h1 { font-size: 2.2em; margin-bottom: 2px; letter-spacing: -0.5px; }
+  .subtitle { font-size: 1.05em; color: #444; font-weight: 600; margin-bottom: 6px; }
+  .contact { font-size: 0.9em; color: #555; margin-bottom: 24px; }
+  .contact a { color: #0066cc; text-decoration: none; }
+  h2 { border-bottom: 2px solid #1a1a1a; padding-bottom: 4px; margin-top: 36px; margin-bottom: 12px; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.08em; }
+  h3 { margin-bottom: 0px; font-size: 1.05em; color: #000; }
+  .role-meta { font-size: 0.88em; color: #555; margin-bottom: 8px; font-style: italic; }
+  .role-desc { margin-bottom: 8px; color: #333; font-size: 0.93em; }
+  ul { margin: 6px 0 12px 0; padding-left: 20px; }
+  li { margin: 5px 0; }
+  strong { color: #000; }
+  .stack { font-size: 0.85em; color: #555; font-style: italic; margin-top: 6px; }
+  .skill-group { margin-bottom: 6px; }
+  .skill-label { font-weight: 700; }
+  hr { border: none; border-top: 1px solid #e0e0e0; margin: 20px 0; }
+  .earlier { color: #444; font-size: 0.92em; }
+  .edu-item { margin-bottom: 4px; }
+</style>
+</head>
+<body>
+
+<h1>MANISHA GOTETI</h1>
+<div class="subtitle">Solutions Engineer — AI Enablement</div>
+<div class="contact">
+  gotetimanisha@gmail.com &nbsp;|&nbsp; +1 (206) 581-6808 &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/manisha-g-2896aba8/">LinkedIn</a>
+</div>
+
+<h2>Summary</h2>
+<p>Solutions Engineer with 11+ years of experience building and integrating AI-powered systems in enterprise environments. Specializes in wiring together existing platforms — MCPs, APIs, LLMs, and enterprise tools — into working solutions that teams can use immediately. Full-stack capable (React, Node.js, Python, TypeScript) with hands-on experience deploying AI agents, RAG pipelines, and conversational tools across Azure, AWS, and Apple's internal infrastructure. Currently embedded at Apple within Sales Finance BPR, with direct familiarity with internal platforms, CI/CD pipelines, and cross-functional delivery workflows. Operates at the intersection of technical build and business enablement — ships fast, iterates with users, and knows when to configure vs. when to escalate.</p>
+
+<h2>Technical Skills</h2>
+<div class="skill-group"><span class="skill-label">AI &amp; Integration:</span> Claude, Azure OpenAI, Bedrock, LangChain, LangGraph, Model Context Protocol (MCP), RAG Architecture, Prompt Engineering, Conversational AI, Copilot Studio, AI Agents</div>
+<div class="skill-group"><span class="skill-label">Full-Stack:</span> React, Angular, TypeScript, Node.js, Python, JavaScript, HTML/CSS, RESTful APIs, Express.js, Flask</div>
+<div class="skill-group"><span class="skill-label">Enterprise Platforms:</span> Microsoft Power Platform (Power Apps, Power Automate, Power BI, Power Virtual Agents, Dataverse), Microsoft Dynamics 365, Copilot Studio</div>
+<div class="skill-group"><span class="skill-label">Data &amp; Analytics:</span> SQL Server, PostgreSQL, MySQL, Snowflake, MongoDB, Apache Spark, Pandas, Power BI, Tableau, DuckDB</div>
+<div class="skill-group"><span class="skill-label">Cloud &amp; DevOps:</span> Azure (AI Services, OpenAI, DevOps, Web Apps), AWS (EKS, EC2, S3, IAM), Docker, Kubernetes, CI/CD Pipelines, GitHub Actions</div>
+<div class="skill-group"><span class="skill-label">ML/AI (foundational):</span> PyTorch, TensorFlow, Keras, Scikit-learn, NLP, BERT, Transformers, Time Series Forecasting</div>
+
+<h2>Professional Experience</h2>
+
+<h3>Solutions Engineer — AI Enablement &nbsp;·&nbsp; Apple Inc., Sunnyvale, CA</h3>
+<div class="role-meta">Sept 2025 – Present</div>
+<div class="role-desc">Embedded within Sales Finance BPR, building and deploying AI-powered solutions across internal enterprise workflows. Works across Apple's internal platform stack including CI/CD pipelines, internal hosting, and enterprise integrations.</div>
+<ul>
+  <li>Designed and deployed multi-agent frameworks using LLMs for planning, reasoning, and tool-calling to automate complex business workflows</li>
+  <li>Integrated AI agents into enterprise systems using Apple's internal infrastructure and approved tooling</li>
+  <li>Built context engineering methodologies enabling agents to access and maintain memory across multi-turn interactions — reducing hallucinations and improving reliability</li>
+  <li>Partnered with software engineers, UX designers, and Privacy teams to integrate intelligent agents into Apple services in compliance with data privacy guidelines</li>
+  <li>Designed evaluation frameworks and automated testing environments to validate agent performance and reliability before production deployment</li>
+  <li>Managed scalable container infrastructure (Docker, Kubernetes/EKS) to support production AI agent workflows</li>
+</ul>
+
+<hr>
+
+<h3>Data Scientist | AI Engineer &nbsp;·&nbsp; BigLynx Inc., Bellevue, WA</h3>
+<div class="role-meta">Nov 2021 – Aug 2025</div>
+<div class="role-desc">Led end-to-end delivery of AI and full-stack solutions across multiple enterprise clients — from architecture through deployment. Primary focus on assembling AI capabilities using existing enterprise tools, APIs, and platforms.</div>
+<ul>
+  <li><strong>Built and deployed an AI agent using Model Context Protocol (MCP)</strong> — architected both the frontend interface and backend agent logic for dynamic, context-aware decision-making</li>
+  <li>Integrated NLP-driven conversational tools into customer-facing chat systems using <strong>Copilot Studio, Azure OpenAI, and Microsoft Power Apps</strong> — leveraged existing enterprise platforms over greenfield builds</li>
+  <li>Designed and launched a full-stack predictive analytics platform: Python ML backend + React frontend + complete data pipeline, delivered end-to-end</li>
+  <li>Built dynamic React dashboards and Angular internal tools for visualizing RAG pipeline outputs and ML model results</li>
+  <li>Implemented <strong>AI-powered search and recommendation systems</strong> using vector embeddings and advanced databases</li>
+  <li>Engineered and maintained CI/CD pipelines in Azure and AWS for automated ML model deployment — streamlined release cycles across multiple applications</li>
+  <li>Refined prompt engineering strategies to improve LLM output accuracy and contextual relevance across production use cases</li>
+  <li>Mentored engineers and defined technical direction for AI and software initiatives</li>
+</ul>
+<div class="stack">Stack: Python, React, Angular, TypeScript, Node.js, Azure OpenAI, MCP, LangChain, RAG, Copilot Studio, Power Apps, AWS, Snowflake, MLFlow, Git</div>
+
+<hr>
+
+<h3>Assistant Cost Manager &nbsp;·&nbsp; CBRE South Asia Pvt Ltd., Hyderabad, India</h3>
+<div class="role-meta">Dec 2019 – Sep 2021</div>
+<ul>
+  <li>Built data pipelines and AI models to extract insights from large unstructured real estate datasets</li>
+  <li>Developed interactive dashboards and NLP-based market trend summarization tools for executive reporting</li>
+  <li>Supervised fine-tuning of ML models using PyTorch for tailored business forecasting needs</li>
+  <li>Implemented CI/CD automation using Docker and Jenkins</li>
+</ul>
+
+<hr>
+
+<h3>Assistant Cost Manager &nbsp;·&nbsp; GLEEDS Consulting Pvt Ltd., Hyderabad, India</h3>
+<div class="role-meta">Mar 2018 – Dec 2019</div>
+<ul>
+  <li>Built ML solutions for tendering analysis, price forecasting, and bid evaluation</li>
+  <li>Developed data visualization dashboards and automated procurement analytics tools</li>
+  <li>Integrated AI models with traditional cost consultancy workflows to streamline vendor procurement</li>
+</ul>
+
+<hr>
+
+<div class="earlier"><strong>Earlier Experience</strong><br>
+<strong>AECOM India</strong> (2015–2018), <strong>Leader Consortium</strong> (2015), <strong>SWEETT India</strong> (2013–2014) — Data analysis, ETL pipelines, ML model development, web development, and quantitative analytics across construction and real estate domains.</div>
+
+<h2>Education</h2>
+<div class="edu-item">Post Graduate Certificate — Software Engineering for Data Science, Great Lakes Institute of Management &amp; IIIT-Hyderabad</div>
+<div class="edu-item">Post Graduate Certificate — Data Science and Business Analytics, Great Lakes Institute of Management &amp; University of Texas, Austin</div>
+<div class="edu-item">Master of Engineering (Energy) — Asian Institute of Technology, Bangkok, Thailand</div>
+<div class="edu-item">Bachelor of Engineering (Electrical &amp; Electronics) — Sri Venkateswara College of Engineering, Chennai, India</div>
+
+</body>
+</html>
